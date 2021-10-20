@@ -9,3 +9,7 @@ Each algorithm and data structure has its own separate README with related expla
 I WILL TRY TO ADD CONTINOUSLY NEW ALGORITHM AND DATA STRUCTURE
 ***
 
+## List of implementations
+
+* Search
+  * [binary search](src/Algorithms/search/binary_search)
